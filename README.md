@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @MaRtenkata
+- 👋 Hi, I’m @MaRtenkata 
+
+<br>
+
+- 🌱  I’m currently learning Web Developer at Software University.  <br>
+- 💡   I'm self-motivated team player who's ambitious and persistent with pretty good problem solving skills.I am aiming to add value to a dynamic team while building skills and acquiring new knowledge. Hardworking with outstanding active listening,interpersonal and communication skills <br>
 
 
 

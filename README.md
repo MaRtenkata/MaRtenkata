@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
   
 
-<img alt="RxJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react" alt="React" />
+<img alt="RxJS" src = " https://img.shields.io/badge/-ReactJs-61DAFB?logo=react" alt="React" />
 <img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   

@@ -26,12 +26,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<p align="center">
-<a href="https://github.com/MaRtenkata">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaRtenkata&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaRtenkata&layout=compact&langs_count=8&hide=java,r&theme=react "/>
-</a>
-</p>
 
 
 
